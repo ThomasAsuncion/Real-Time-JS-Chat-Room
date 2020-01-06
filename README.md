@@ -1,5 +1,5 @@
 A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).
----------
+
 ## About Project
 
 A real time chat room application that can be used to communicate with anyone across the internet. In its current version (v.1.0) mobile view is **not** supported and only text based messages are supported. 
@@ -20,13 +20,7 @@ Clone or download the project repository on your machine and then navigate to th
 
 Navigate to the the [server](https://github.com/ThomasAsuncion/Real-Time-JS-Chat-Room/tree/master/server) directory in a terminal and run the command `npm start` to install all the necessary dependencies.
 
+Once all the dependencies have been installed, run `npm start` in both the client and server directories to start the project. The client should run on [http://localhost:3000](http://localhost:3000) and the server should run on [http://localhost:5000](http://localhost:5000) on your browser.
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
