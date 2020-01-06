@@ -10,7 +10,7 @@ This was created using React, Node.js, Express.js and Socket.IO. **Learn more ab
 * [Express.js](https://expressjs.com/)
 * [Socket.IO](https://socket.io/)
 
-This application also supports the use of emojis 😀😁😂🤣 thanks to [react-emojify]( https://www.npmjs.com/package/react-emojify).
+This application also supports the use of emojis 😀😁😂🤣 in chat thanks to [react-emojify]( https://www.npmjs.com/package/react-emojify).
 
 ## Available Scripts
 
