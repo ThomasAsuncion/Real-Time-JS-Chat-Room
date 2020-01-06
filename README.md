@@ -22,4 +22,4 @@ Navigate to the the [server](https://github.com/ThomasAsuncion/Real-Time-JS-Chat
 
 Once all the dependencies have been installed, run `npm start` in both the client and server directories to start the project. The client should run on [http://localhost:3000](http://localhost:3000) and the server should run on [http://localhost:5000](http://localhost:5000) on your browser.
 
-A big thanks to [JavaScript Mastery]( https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A/videos) for creating a tutorial on JavaScript and Socket.IO for chat applications.
+A big thanks to [JavaScript Mastery](https://twitter.com/JS_Mastery) for creating a tutorial on JavaScript and Socket.IO for chat applications.
