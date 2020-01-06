@@ -1,4 +1,4 @@
-A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).
+**A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).**
 
 ## About Project
 
