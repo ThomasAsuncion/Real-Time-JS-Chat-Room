@@ -1,7 +1,5 @@
-## Live Demo
-
 A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).
-
+---------
 ## About Project
 
 A real time chat room application that can be used to communicate with anyone across the internet. In its current version (v.1.0) mobile view is **not** supported and only text based messages are supported. 
