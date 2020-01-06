@@ -1,6 +1,4 @@
-A deployed and working demo can be found with the following [link](https://js-game-chat-room.netlify.com/). Try it with your friends!
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A deployed and working demo can be found online with the following [link](https://js-game-chat-room.netlify.com/). Try it with your friends!
 
 ## Available Scripts
 
