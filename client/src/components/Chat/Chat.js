@@ -16,7 +16,7 @@ const Chat = ({ location }) => {
     const [users, setUsers] = useState('');
     const [message, setMessage] = useState(''); // A state for individual messages
     const [messages, setMessages] = useState([]); // An array that will store all of our messages
-    const ENDPOINT = 'https://react-gamechat-app.herokuapp.com/'; // The endpoint is where our server is for local development make sure its 'localhost:5000'
+    const ENDPOINT = 'localhost:5000'; // The endpoint is where our server is for local development make sure its 'localhost:5000'
 
     useEffect(() => {
         // Retrieve data that users has entered when joining. location.search takes the param info passed via. URL and stores them in name and room using queryString
