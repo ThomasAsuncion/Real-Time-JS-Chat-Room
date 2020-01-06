@@ -1,4 +1,6 @@
-*A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).*
+## Live Demo
+
+A deployed and working demo can be found online [here](https://js-game-chat-room.netlify.com/).
 
 ## About Project
 
@@ -16,7 +18,9 @@ This application also supports the use of emojis 😀😁😂🤣 in chat thanks
 
 In the project directory, you can run:
 
-Clone or download the project repository on your machine and then navigate to the [client](https://github.com/ThomasAsuncion/Real-Time-JS-Chat-Room/tree/master/client) directory. Run the command `npm start` to install all the necessary dependencies.
+Clone or download the project repository on your machine and then navigate to the [client](https://github.com/ThomasAsuncion/Real-Time-JS-Chat-Room/tree/master/client) directory in a terminal and run the command `npm start` to install all the necessary dependencies.
+
+Navigate to the the [server](https://github.com/ThomasAsuncion/Real-Time-JS-Chat-Room/tree/master/server) directory in a terminal and run the command `npm start` to install all the necessary dependencies.
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
