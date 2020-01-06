@@ -5,7 +5,7 @@ A deployed and working demo can be found online [here](https://js-game-chat-room
 A real time chat room application that can be used to communicate with anyone across the internet. In its current version mobile view is **not** supported and only text based messages are supported. For the best viewing results, use Google Chrome or Microsoft Edge.
 
 This was created using React, Node.js, Express.js and Socket.IO. **Learn more about them here:**
-* [React](https://reactjs.org/)
+* [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/about/)
 * [Express.js](https://expressjs.com/)
 * [Socket.IO](https://socket.io/)
