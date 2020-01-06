@@ -1,0 +1,116 @@
+.form {
+    display: flex;
+    border-top: 2px solid #D3D3D3;
+  }
+  
+  .input {
+    border: none;
+    border-radius: 0;
+    padding: 4%;
+    width: 80%;
+    font-size: 1.2em;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+
+  .neutralSendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #23272a;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+  }
+
+  .neutralSendButton:hover{
+    background: #181a1d;
+  }
+
+  .neutralSendButton:active{
+    background: #23272a;
+  }
+  
+  .blueSendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #2979FF;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+  }
+
+  .blueSendButton:hover{
+    background: rgb(33, 100, 216);
+  }
+
+  .blueSendButton:active{
+    background: #2979FF;
+  }
+
+  .redSendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #FF3939;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+  }
+
+  .redSendButton:hover{
+    background: rgb(216, 47, 47);
+  }
+
+  .redSendButton:active{
+    background: #FF3939;
+  }
+
+  .greenSendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #00C39C;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+  }
+
+  .greenSendButton:hover {
+    background: rgb(0, 177, 141);
+  }
+
+  .greenSendButton:active {
+    background: #00C39C;
+  }
+
+  .yellowSendButton {
+    color: #464646 !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #FFE164;
+    padding: 20px;
+    display: inline-block;
+    border: none;
+    width: 20%;
+    font-size: 18px;
+  }
+
+  .yellowSendButton:hover {
+    background: rgb(231, 202, 85);
+  }
+
+  .yellowSendButton:active {
+    background: #FFE164;
+  }
